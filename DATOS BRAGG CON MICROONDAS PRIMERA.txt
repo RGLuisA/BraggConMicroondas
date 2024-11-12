@@ -1,0 +1,44 @@
+DATOS BRAGG CON MICROONDAS PRIMERA RONDA EXPERIMENTAL
+
+\begin{table}[h!]
+    \centering
+\begin{tabular}{|c|c|}
+        \hline
+        Distancia (cm) & Voltaje (V) \\
+        \hline
+        0.0  & 0.408 \\
+        0.2  & 1.594 \\
+        0.4  & 2.64 \\
+        0.6  & 2.38 \\
+        0.8  & 1.92 \\
+        1.0  & 1.464 \\
+        1.2  & 1.368 \\ 
+        1.4  & 1.274 \\
+        1.6  & 0.973 \\
+        1.8  & 1.520 \\
+        2.0  & 2.67 \\
+        2.2  & 2.06 \\
+        2.4  & 1.642 \\
+        2.6  & 1.723 \\ 
+        2.8  & 1.197 \\
+        3.0  & 1.061 \\
+        3.2  & 1.115 \\
+        3.4  & 1.240 \\
+        3.6  & 1.328 \\ 
+        3.8  & 2.15 \\
+        4.0  & 1.147 \\
+        4.2  & 1.060 \\
+        4.4  & 1.108 \\
+        4.6  & 1.256 \\
+        4.8  & 1.451 \\
+        5.0  & 1.960 \\
+        5.2  & 1.96 \\
+        5.4  & 1.322 \\
+        5.6  & 1.692 \\
+        5.8  & 1.191 \\
+        6.0  & 1.071 \\
+        \hline
+    \end{tabular}
+\caption{Datos obtenidos para la tercera corrida, las incertidumbres fueron calculadas siguiendo el manual del electrómetro, estos datos se pueden comprobar en \cite{Excel}.}
+    \label{Corrida4}
+\end{table}
